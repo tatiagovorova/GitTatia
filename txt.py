@@ -1,0 +1,1 @@
+fp = open('C:/xyz.txt', 'r')
